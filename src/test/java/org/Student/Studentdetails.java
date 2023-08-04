@@ -25,8 +25,13 @@ public class Studentdetails {
 		System.out.println("print1");
 
 	}
+<<<<<<< HEAD
+	private void m3() {
+		System.out.println("print3");
+=======
 	private void m2() {
 		System.out.println("print2");
+>>>>>>> a03dec0e1f2e12a3700cc5f7adba4bf539363879
 
 	}
 	
