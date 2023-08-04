@@ -25,6 +25,10 @@ public class Studentdetails {
 		System.out.println("print1");
 
 	}
+	private void m2() {
+		System.out.println("print2");
+
+	}
 	
 	public static void main(String[] args) {
 		
